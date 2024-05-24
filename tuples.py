@@ -16,4 +16,4 @@ def create_record(tup1, tup2):
     if coord == tup2[1]:
         return tup1 + tup2
     else:
-        return "no coincide"
+        return "not a match"
